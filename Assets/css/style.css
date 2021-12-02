@@ -1,0 +1,72 @@
+/* used */
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  line-height: 1;
+}
+/* unused -- use for list item internal?*/
+textarea {
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+  padding: 10px;
+}
+/* used */
+.jumbotron {
+  text-align: center;
+  background-color: transparent;
+  color: black;
+  border-radius: 0;
+  border-bottom: 10px solid black;
+}
+/* unused */
+.description {
+  white-space: pre-wrap;
+}
+/* unused */
+.time-block {
+  text-align: center;
+  border-radius: 15px;
+}
+/* unused */
+.row {
+  white-space: pre-wrap;
+  height: 80px;
+  border-top: 1px solid white;
+}
+/* unused */
+.hour {
+  background-color: #ffffff;
+  color: #000000;
+  border-top: 1px dashed #000000;
+}
+/* unused */
+.past {
+  background-color: #d3d3d3;
+  color: white;
+}
+/* unused */
+.present {
+  background-color: #ff6961;
+  color: white;
+}
+/* unused */
+.future {
+  background-color: #77dd77;
+  color: white;
+}
+/* unused */
+.saveBtn {
+  border-left: 1px solid black;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #06aed5;
+  color: white;
+}
+/* unused */
+.saveBtn i:hover {
+  font-size: 20px;
+  transition: all 0.3s ease-in-out;
+}
